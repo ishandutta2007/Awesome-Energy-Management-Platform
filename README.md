@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Energy-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Energy-Management-Platform?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Energy-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Energy-Management-Platform?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Energy-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Energy-Management-Platform?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Energy-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Energy-Management-Platform?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -51,36 +51,36 @@ Below is a tabular overview of top commercial SaaS energy management platforms s
 
 ## 🔓 Open-Source GitHub Projects & Frameworks
 
-Explore top open-source projects for self-hosting energy telemetry, smart building control, home automation, and time-series metrics. Listed in descending order of **GitHub Stars**:
+Explore top open-source projects for self-hosting energy telemetry, smart building control, home automation, and time-series metrics. Listed in descending order of **GitHub_Stars**:
 
-1. [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) **[Home Assistant](https://github.com/home-assistant/core)**  
+1. [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) **[Home Assistant](https://github.com/home-assistant/core)**  
    *Open-source home automation and localized energy management platform putting privacy and local control first. Features comprehensive energy dashboards, solar PV integration, grid export tracking, and battery storage monitoring.*
 
-2. [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) **[Netdata](https://github.com/netdata/netdata)**  
+2. [![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) **[Netdata](https://github.com/netdata/netdata)**  
    *Real-time performance, energy, and infrastructure monitoring agent designed to collect granular metrics (including power consumption, thermals, and UPS battery telemetry) with zero configuration.*
 
-3. [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) **[ThingsBoard](https://github.com/thingsboard/thingsboard)**  
+3. [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) **[ThingsBoard](https://github.com/thingsboard/thingsboard)**  
    *Open-source IoT platform for data collection, processing, visualization, and device management. Widely deployed for smart building energy monitoring, smart metering telemetry, and HVAC control.*
 
-4. [![GitHub stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers) **[EVCC](https://github.com/evcc-io/evcc)**  
+4. [![GitHub_Stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers) **[EVCC](https://github.com/evcc-io/evcc)**  
    *Extensible EV Charge Controller with photovoltaics (PV) energy integration. Optimizes electric vehicle charging using self-generated solar energy and dynamic energy tariffs.*
 
-5. [![GitHub stars](https://img.shields.io/github/stars/OpenEMS/openems?style=social&color=white)](https://github.com/OpenEMS/openems/stargazers) **[OpenEMS (Open Energy Management System)](https://github.com/OpenEMS/openems)**  
+5. [![GitHub_Stars](https://img.shields.io/github/stars/OpenEMS/openems?style=social&color=white)](https://github.com/OpenEMS/openems/stargazers) **[OpenEMS (Open Energy Management System)](https://github.com/OpenEMS/openems)**  
    *Modular open-source energy management framework initiated by FENECON. Controls energy storage systems (ESS), EV chargers, heat pumps, and PV inverters via OpenEMS Edge and aggregates telemetry in OpenEMS Backend.*
 
-6. [![GitHub stars](https://img.shields.io/github/stars/ioBroker/ioBroker?style=social&color=white)](https://github.com/ioBroker/ioBroker/stargazers) **[ioBroker](https://github.com/ioBroker/ioBroker)**  
+6. [![GitHub_Stars](https://img.shields.io/github/stars/ioBroker/ioBroker?style=social&color=white)](https://github.com/ioBroker/ioBroker/stargazers) **[ioBroker](https://github.com/ioBroker/ioBroker)**  
    *Modular IoT integration platform for smart homes and commercial facilities, offering extensive adapters for smart meters, power submeters, and energy dashboards.*
 
-7. [![GitHub stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers) **[openHAB](https://github.com/openhab/openhab-core)**  
+7. [![GitHub_Stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers) **[openHAB](https://github.com/openhab/openhab-core)**  
    *Vendor-agnostic smart home and building automation engine focusing on local device interoperability and energy usage automation.*
 
-8. [![GitHub stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers) **[VOLTTRON](https://github.com/VOLTTRON/volttron)**  
+8. [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers) **[VOLTTRON](https://github.com/VOLTTRON/volttron)**  
    *US Department of Energy (PNNL) open-source agent execution platform for building energy management, smart grid integration, and transactional energy applications.*
 
-9. [![GitHub stars](https://img.shields.io/github/stars/kimdain0222/ecosysnc?style=social&color=white)](https://github.com/kimdain0222/ecosysnc/stargazers) **[ecosysnc](https://github.com/kimdain0222/ecosysnc)**  
+9. [![GitHub_Stars](https://img.shields.io/github/stars/kimdain0222/ecosysnc?style=social&color=white)](https://github.com/kimdain0222/ecosysnc/stargazers) **[ecosysnc](https://github.com/kimdain0222/ecosysnc)**  
    *Smart Building Energy Management System (SBEMS) using FastAPI and React to run vacancy prediction models for HVAC and lighting energy reduction.*
 
-10. [![GitHub stars](https://img.shields.io/github/stars/hashiniWijerathne/e17-co326-Smart-Building?style=social&color=white)](https://github.com/hashiniWijerathne/e17-co326-Smart-Building/stargazers) **[Smart Building IIoT Framework](https://github.com/hashiniWijerathne/e17-co326-Smart-Building)**  
+10. [![GitHub_Stars](https://img.shields.io/github/stars/hashiniWijerathne/e17-co326-Smart-Building?style=social&color=white)](https://github.com/hashiniWijerathne/e17-co326-Smart-Building/stargazers) **[Smart Building IIoT Framework](https://github.com/hashiniWijerathne/e17-co326-Smart-Building)**  
     *MQTT and SCADA smart building automation framework integrating ESP32/Arduino microcontrollers with open-source analytics.*
 
 ---
