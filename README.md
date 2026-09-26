@@ -94,3 +94,12 @@
 
 **为设施经理、能源经理、可持续发展官和建筑运营团队打造。**
 让能源管理更加开放、透明和高效。
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Energy-Management-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Energy-Management-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Energy-Management-Platform_growth.svg">
+  </picture>
+</a>
