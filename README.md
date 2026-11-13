@@ -77,10 +77,13 @@ Explore top open-source projects for self-hosting energy telemetry, smart buildi
 8. [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers) **[VOLTTRON](https://github.com/VOLTTRON/volttron)**  
    *US Department of Energy (PNNL) open-source agent execution platform for building energy management, smart grid integration, and transactional energy applications.*
 
-9. [![GitHub_Stars](https://img.shields.io/github/stars/kimdain0222/ecosysnc?style=social&color=white)](https://github.com/kimdain0222/ecosysnc/stargazers) **[ecosysnc](https://github.com/kimdain0222/ecosysnc)**  
-   *Smart Building Energy Management System (SBEMS) using FastAPI and React to run vacancy prediction models for HVAC and lighting energy reduction.*
+9. [![GitHub_Stars](https://img.shields.io/github/stars/EVtivity/evtivity-csms?style=social&color=white)](https://github.com/EVtivity/evtivity-csms/stargazers) **[EVtivity CSMS](https://github.com/EVtivity/evtivity-csms)**  
+   *Self-hosted Charging Station Management System (OCPP 1.6 and 2.1, 2.0.1 compatible) with site load management: it models transformers, panels, circuits and unmanaged loads, counts battery and solar supply, and sets each charging station's power limit in a 10-second control loop. Source-available under the Business Source License 1.1, free for a single operator's own network.*
 
-10. [![GitHub_Stars](https://img.shields.io/github/stars/hashiniWijerathne/e17-co326-Smart-Building?style=social&color=white)](https://github.com/hashiniWijerathne/e17-co326-Smart-Building/stargazers) **[Smart Building IIoT Framework](https://github.com/hashiniWijerathne/e17-co326-Smart-Building)**  
+10. [![GitHub_Stars](https://img.shields.io/github/stars/kimdain0222/ecosysnc?style=social&color=white)](https://github.com/kimdain0222/ecosysnc/stargazers) **[ecosysnc](https://github.com/kimdain0222/ecosysnc)**  
+    *Smart Building Energy Management System (SBEMS) using FastAPI and React to run vacancy prediction models for HVAC and lighting energy reduction.*
+
+11. [![GitHub_Stars](https://img.shields.io/github/stars/hashiniWijerathne/e17-co326-Smart-Building?style=social&color=white)](https://github.com/hashiniWijerathne/e17-co326-Smart-Building/stargazers) **[Smart Building IIoT Framework](https://github.com/hashiniWijerathne/e17-co326-Smart-Building)**  
     *MQTT and SCADA smart building automation framework integrating ESP32/Arduino microcontrollers with open-source analytics.*
 
 ---
